@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mobile Forensics Application](https://github.com/AlyanGulzar/Mobile-Forensics-Application-)
 
-- 🌱 I’m currently learning **RUST and GO**
+- 🌱 I’m currently learning **RUST and Python**
 
 - 📝 I regularly write articles on [https://medium.com/@alyangulzar149](https://medium.com/@alyangulzar149)
 
@@ -28,7 +28,6 @@
     <img src="Images/GCS.png" alt="Google Cyber Security Professional Certificate" width="130">
     <img src="Images/btja.PNG" alt="Blue Team Junior Analyst" width="140">
     <img src="Images/27001.png" alt="ISO/IEC 27001 Information Security Associate" width="250">
-    <img src="Images/9001.png" alt="ISO 9001 Quality Management Systems Associate" width="250">
     
 ---
 
