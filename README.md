@@ -21,6 +21,16 @@
 </div>
 
 ###
+---
+
+## Certifications:
+<div style="text-align: center;">
+    <img src="Images/GCS.png" alt="Google Cyber Security Professional Certificate" width="100">
+    <img src="Images/btja.PNG" alt="Blue Team Junior Analyst" width="120">
+    <img src="Images/27001.png" alt="ISO/IEC 27001 Information Security Associate" width="180">
+    <img src="Images/9001.png" alt="ISO 9001 Quality Management Systems Associate" width="180">
+    
+---
 
 
 <h3 align="left">Connect with me:</h3>
