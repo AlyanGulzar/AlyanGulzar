@@ -5,7 +5,7 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF6bzVrbDl0ZDk2d3lzZDZ6ODgyaDIwamV5aG13aTJwMWhzaXF1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 
 
-- Currently Working on **Agentic AI**
+- Currently Working on **AI Based Digital Forensics Solution**
 
 - learning **RUST and Python**
 
